@@ -1,0 +1,11 @@
+.loadMore__button {
+  height: 50px;
+  width: 200px;
+  margin-bottom: 40px;
+  margin-right: 40px;
+  border-radius: 5px;
+  border: 1px solid grey;
+  background: grey;
+  color: white;
+  float: right;
+}

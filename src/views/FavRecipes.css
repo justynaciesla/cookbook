@@ -1,0 +1,13 @@
+.header {
+  font-size: 40px;
+  color: rgb(151, 148, 148);
+  margin-right: 100px;
+}
+
+.header__wrapper {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin-top: 40px;
+  vertical-align: baseline;
+}

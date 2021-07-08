@@ -1,0 +1,12 @@
+.recipesList {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 40px;
+  justify-content: space-around;
+}
+
+.recipesListItem {
+  margin: 30px;
+  padding: 20px 20px 0px 20px;
+  border: 2px solid rgb(151, 148, 148);
+}

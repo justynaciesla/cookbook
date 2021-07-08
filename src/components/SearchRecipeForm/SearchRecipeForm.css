@@ -1,0 +1,51 @@
+.form {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+  padding-bottom: 25px;
+  border-bottom: 2px solid rgb(151, 148, 148);
+}
+
+.searchWrapper {
+  margin-right: 20px;
+  font-size: 23px;
+}
+
+.recipeName__input {
+  height: 30px;
+  width: 200px;
+  border: 2px solid rgb(151, 148, 148);
+  border-radius: 5px;
+}
+
+.recipeNumberWrapper {
+  font-size: 23px;
+  margin-right: 20px;
+}
+
+.recipeNumber__select {
+  font-size: 18px;
+  height: 30px;
+  width: 60px;
+  border: 2px solid rgb(151, 148, 148);
+  border-radius: 5px;
+  color: rgb(151, 148, 148);
+}
+
+.submit__button {
+  border: 2px solid rgb(34, 161, 22);
+  border-radius: 5px;
+  height: 33px;
+  width: 100px;
+  background-color: rgb(34, 161, 22);
+  color: white;
+  font-weight: 700;
+}
+
+.recipeName {
+  color: rgb(151, 148, 148);
+}
+
+.recipeNumber {
+  color: rgb(151, 148, 148);
+}

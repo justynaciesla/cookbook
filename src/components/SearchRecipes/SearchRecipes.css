@@ -1,0 +1,15 @@
+.searchWrapper {
+  margin-right: 20px;
+  font-size: 23px;
+}
+
+.recipeName {
+  color: rgb(151, 148, 148);
+}
+
+.recipeName__input {
+  height: 30px;
+  width: 200px;
+  border: 2px solid rgb(151, 148, 148);
+  border-radius: 5px;
+}
